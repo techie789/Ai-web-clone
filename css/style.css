@@ -1,0 +1,14 @@
+.wrapper{
+    width: 90%;
+    margin: 0 auto;
+}
+
+body {
+    font-family: "Urbanist", sans-serif;
+}
+
+#home{
+    background: url(/Tegfly/ai-tool-website-asset_ImxDyWw/ai-tool-website-asset/images/home-bg.png)
+    no-repeat center;
+    background-size: cover;
+}
